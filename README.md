@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @navidfaridi
 - 👀 I’m interested in technology and developing web applications
-- 🌱 I’m currently learning k8 and gclouds
+- 🌱 I’m currently working in MeDirect Bank Malta
 - 💞️ I’m looking to collaborate on dotnet core based microservices
 - 📫 To reach me check https://linkedin.com/in/navidfaridi
 
