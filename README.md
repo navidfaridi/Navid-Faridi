@@ -38,7 +38,7 @@ I am a passionate senior software engineer with 10+ years of experience in backe
 ## Contact  
 - Email: [navid.faridi@gmail.com](mailto:navid.faridi@gmail.com)  
 - LinkedIn: [linkedin.com/in/navidfaridi](https://linkedin.com/in/navidfaridi)  
-- CV: [Full Resume](https://cv.navidfaridi.com)  
+- CV: [Resume](https://cv.navidfaridi.com)  
 ---
 © 2024 Navid Faridi
 <style>
