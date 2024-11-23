@@ -1,6 +1,4 @@
-# Navid Faridi - Senior Software Engineer  
-[navidfaridi.com](https://navidfaridi.com)  
-
+# Navid Faridi - Senior Software Engineer
 ---
 
 ## About Me  
@@ -40,6 +38,11 @@ I am a passionate senior software engineer with 10+ years of experience in backe
 ## Contact  
 - Email: [navid.faridi@gmail.com](mailto:navid.faridi@gmail.com)  
 - LinkedIn: [linkedin.com/in/navidfaridi](https://linkedin.com/in/navidfaridi)  
-
+- CV: [Full Resume](https://cv.navidfaridi.com)  
 ---
 © 2024 Navid Faridi
+<style>
+h1, .repository-name {
+    display: none;
+}
+</style>
